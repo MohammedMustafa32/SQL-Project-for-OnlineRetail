@@ -3,6 +3,8 @@
 ## 📝 Project Overview
 Customer has purchasing transaction that we shall be monitoring to get intuition behind each customer behavior to target the customers in the most efficient and proactive way, to increase sales/revenue, improve customer retention and decrease churn.
 
+[Case Study](https://github.com/MohammedMustafa32/SQL-Project-for-OnlineRetail/blob/main/Analytical%20SQL%20Case%20Study.pdf)
+
 ## 📁 Dataset
 [OnlineRetail](https://github.com/MohammedMustafa32/SQL-Project-for-OnlineRetail/blob/main/Dataset/OnlineRetail.zip)
 
